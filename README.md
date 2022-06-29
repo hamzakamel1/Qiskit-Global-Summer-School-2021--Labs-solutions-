@@ -26,11 +26,11 @@ We learned in this lab the following topics
     
     
 # Lab 3: Quantum Kernels and Support Vector Machines
-## We discovered how to use quantum support vector classification, quantum kernels, and quantum feature maps in Qiskit in this lab.
+### We discovered how to use quantum support vector classification, quantum kernels, and quantum feature maps in Qiskit in this lab.
 
 # lab 4: Training Parameterized Quantum Circuits
-## We took a closer look at how to train circuit-based models in this lab session. By the end of this lesson, you should be able to construct variational quantum classifiers, employ a variety of training methods, including gradient-based methods, and understand the limitations of variational-based models and how to get around them.
+### We took a closer look at how to train circuit-based models in this lab session. By the end of this lesson, you should be able to construct variational quantum classifiers, employ a variety of training methods, including gradient-based methods, and understand the limitations of variational-based models and how to get around them.
 
 
 # lab 5 :
-## In this lab, We utilised quantum process tomography to observe how noise impacts a common parameterized quantum circuit used in machine learning.
+### In this lab, We utilised quantum process tomography to observe how noise impacts a common parameterized quantum circuit used in machine learning.
